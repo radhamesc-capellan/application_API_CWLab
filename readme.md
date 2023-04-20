@@ -1,10 +1,7 @@
 
-# Auth Para Cuando Starter
+# Proyecto Coworking Lab
 
-Este proyecto es un ejemplo de autenticación usando sequelize como ORM y un esquema básico y sencillo como DB
-
-Ya maneja handlers de error y otros utils para poder escalar de manera viable
-
+Proyecto Elaborado por Dante Babilonia, Josue Tejada y Radhames Capellan
 
 ## Installation
 
